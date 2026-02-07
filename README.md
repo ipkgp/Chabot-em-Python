@@ -113,4 +113,4 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ## 👤 Autor
 
-Projeto desenvolvido por **Pedro**.
+Projeto desenvolvido por **Pedro Pereira**.
